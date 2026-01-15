@@ -17,7 +17,7 @@
     "react-images": "^1.1.7",
     "react-images-viewer": "^1.6.2",
     "react-modal": "^3.11.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "redux": "^4.0.5",
     "video-react": "^0.14.1"
   },
